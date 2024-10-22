@@ -1,0 +1,43 @@
+TODO-APP
+
+
+1.SRS
+2.DFO
+3.DESIGN YOUR DB
+4.API
+5.CLIENT
+
+project setup
+express setup
+mongodb connecction
+
+setup of EJS
+Register API
+Login API
+
+session base auth 
+middleware to protect API'session
+
+
+Dashboard Page
+Logout
+Logout from all devices
+
+Todo API's
+create API
+Read API
+Edit API
+Delect API
+
+Dashboard
+Axios Read API
+Axios create API
+Axios edit API
+Axios Delect API
+
+
+pagination API's
+Rate Limiting
+Deploy
+
+Email base Auth(JWT)
